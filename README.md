@@ -13,7 +13,11 @@ Pueden ver la pagina a traves de este enlace
 
 El video que me pidieron hacer
 
+<<<<<<< HEAD
 [<img src="https://i.ytimg.com/vi/Gn8XFnScJ3U/maxresdefault.jpg" width="40%">](https://www.youtube.com/watch?v=Gn8XFnScJ3U)
+=======
+(Todavia no esta)
+>>>>>>> a07d5cb74f317a73179a5b22b76b31a0cf8b99f1
 <!----Separador---->
 
 <!----Separador---->
