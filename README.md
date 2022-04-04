@@ -11,7 +11,7 @@ Pueden ver la pagina a traves de este enlace
 
 [https://tibucompas.herokuapp.com/getPersonajes](https://tibucompas.herokuapp.com/getPersonajes)
 
-El video que me pidieron hacer
+Video relacionado
 
 [<img src="https://i.ytimg.com/vi/Gn8XFnScJ3U/maxresdefault.jpg" width="40%">](https://www.youtube.com/watch?v=Gn8XFnScJ3U)
 <!----Separador---->
