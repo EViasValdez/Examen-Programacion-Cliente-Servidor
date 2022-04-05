@@ -3,7 +3,7 @@
 Creado y diseñado por Eduardo Viñas Valdez.
 
 <!----Descripcion---->
-Simplemente es algo de la escuela que me dejaron.
+Simplemente es algo de la escuela que me dejaron, no agregare muchos datos de momento.
 <!----Separador de la descripcion ---->
 
 <!----Separador---->
