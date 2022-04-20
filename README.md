@@ -1,13 +1,13 @@
 # Tibucompas
 
 <!----Descripcion---->
-Simplemente es algo de la escuela que me dejaron, no agregare muchos datos de momento.
+El profesor de esta asignatura nos dejo realizar una aplicacion que utilice la consulta de una API en un sitio web tematico.
 <!----Separador de la descripcion ---->
 
 <!----Notas---->
 **Notas:**
 
-**- Por ser definidas.**
+**.**
 <!----Separador de las notas---->
 
 <!----Separador---->
