@@ -7,7 +7,7 @@ Simplemente es algo de la escuela que me dejaron, no agregare muchos datos de mo
 <!----Notas---->
 **Notas:**
 
-**- Por ser definidas.**
+**- Nota.**
 <!----Separador de las notas---->
 
 <!----Separador---->
