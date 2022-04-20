@@ -7,11 +7,7 @@ El profesor de esta asignatura nos dejo realizar una aplicacion que utilice la c
 <!----Notas---->
 **Notas:**
 
-<<<<<<< HEAD
-**.**
-=======
-**- Nota.**
->>>>>>> bf750cb184f68f48b2410b8b1bb8f4d309ab3622
+**- Se realizo la pagina usando Laravel.**
 <!----Separador de las notas---->
 
 <!----Separador---->
@@ -19,7 +15,7 @@ Pueden ver la pagina a traves de este enlace
 
 [https://tibucompas.herokuapp.com/getPersonajes](https://tibucompas.herokuapp.com/getPersonajes)
 
-Video relacionado
+Video relacionado con detalles adicionales en la creacion de 
 
 [<img src="https://i.ytimg.com/vi/Gn8XFnScJ3U/maxresdefault.jpg" width="40%">](https://www.youtube.com/watch?v=Gn8XFnScJ3U)
 
