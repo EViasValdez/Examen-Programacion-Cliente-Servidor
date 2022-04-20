@@ -7,7 +7,11 @@ El profesor de esta asignatura nos dejo realizar una aplicacion que utilice la c
 <!----Notas---->
 **Notas:**
 
+<<<<<<< HEAD
 **.**
+=======
+**- Nota.**
+>>>>>>> bf750cb184f68f48b2410b8b1bb8f4d309ab3622
 <!----Separador de las notas---->
 
 <!----Separador---->
