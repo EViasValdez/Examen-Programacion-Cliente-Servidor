@@ -1,13 +1,14 @@
-# Tibucompas
+# Consulta y muestra de datos de una API
 
 <!----Descripcion---->
-El profesor de esta asignatura nos dejo realizar una aplicacion que utilice la consulta de una API en un sitio web tematico.
+El profesor de esta asignatura nos dejo realizar una aplicacion que utilice la consulta de una API en un sitio web tematico, algunos detalles que no se mencionan aqui se mencionan en el video de abajo.
 <!----Separador de la descripcion ---->
 
 <!----Notas---->
 **Notas:**
 
-**- Se realizo la pagina usando Laravel.**
+**- Se realizo la pagina usando Laravel y fue alojada en heroku.**
+
 <!----Separador de las notas---->
 
 <!----Separador---->
