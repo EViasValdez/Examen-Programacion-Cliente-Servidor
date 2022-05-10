@@ -10,7 +10,6 @@ El profesor de esta asignatura nos dejo realizar una aplicacion que utilice la c
 **Notas:**
 
 **- Se realizo la pagina usando Laravel y fue alojada en heroku.**
-
 <!----Separador de las notas---->
 
 <!----Separador---->
