@@ -10,6 +10,8 @@ El profesor de esta asignatura nos dejo realizar una aplicacion que utilice la c
 **Notas:**
 
 **- Al igual que el blog se realizo la pagina usando Laravel y fue alojada en heroku.**
+
+**- Realice las modificaciones correspondientes para que no dejara los repositorios inactivos.**
 <!----Separador de las notas---->
 
 <!----Separador---->
