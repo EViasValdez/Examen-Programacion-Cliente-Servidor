@@ -73,12 +73,12 @@
     </style>
     <header>
         <img id="imgprincipal" src="{{asset('archivos/TibuCompasLogo.png')}}">
-        <p id="txthead">Los unicos del pacifico</p>
+        <p id="txthead">Los únicos del pacifico</p>
     </header>
-        <p id="txttitulo">Utilizacion de APIS</p>
+        <p id="txttitulo">Utilización de APIS</p>
         <p id="txtdescripcion">
             El video proporciona una manera eficaz para ayudarle a demostrar el punto.
-            Cuando haga clic en Vídeo en línea, puede pegar el codigo para insertar del vídeo que desea agregar.
+            Cuando haga clic en Vídeo en línea, puede pegar el código para insertar del vídeo que desea agregar.
             También puede escribir una palabra clave para buscar en línea el vídeo que mejor se adapte a su documento.
             Ahorre tiempo en Word con nuevos botones que se muestran donde se necesiten. Para cambiar la forma en que se ajusta una imagen en el documento, haga clic y aparecerá un botón de opciones de diseño junto a la imagen. Cuando trabaje en una tabla, haga clic donde desee agregar una fila o columna y, a continuación, haga clic en el signo más.
             La lectura es más fácil, también, en la nueva vista de lectura.
