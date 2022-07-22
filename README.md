@@ -1,7 +1,7 @@
 # Consulta y muestra de datos de una API
 
 <!----Descripcion---->
-La aplicación que se muestra a continuación es una demostración de una consulta de API a traves de un sitio web.
+La pagina que se muestra a continuación es una demostración de una consulta de API a traves de un sitio web.
 
 El profesor de esta asignatura nos dejo realizar una aplicación que utilice la consulta de una API en un sitio web temático, algunos detalles que no se mencionan aqui se mencionan en el video de abajo.
 <!----Separador de la descripcion ---->
