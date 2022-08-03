@@ -19,35 +19,35 @@
         body{
             background: linear-gradient(0deg, rgba(0,0,0,1) 8%, rgba(12,0,73,1) 24%, rgba(14,0,180,1) 48%, rgba(20,0,255,1) 80%);
         }
-        #imgprincipal{
+        #imgprincipal {
             display: block;
             margin-left: auto;
             margin-right: auto;
             height: 353px;
             width: 546px;
         }
-        #txthead{
+        #txthead {
             font-family: "Overlock SC";
             color: white;
             font-size: 40px;
             font-weight: bolder;
             text-align: center;
         }
-        #txttitulo{
+        #txttitulo {
             font-family: "Mada";
             color: white;
             font-size: 28px;
             font-weight: bold;
             text-align: center;
         }
-        #txtdescripcion{
+        #txtdescripcion {
             font-family: "Mada";
             color: white;
             font-size: 24px;
             font-weight: bold;
             text-align: center;
         }
-        #tabla, tr, td, tbody{
+        #tabla, tr, td, tbody {
             font-family: "Mada";
             border: 2px white;
             color: white;
@@ -58,7 +58,7 @@
             padding-left: 48px;
             padding-right: 48px;
         }
-        thead{
+        thead {
             font-family: "Mada";
             border: 2px white;
             color: white;
