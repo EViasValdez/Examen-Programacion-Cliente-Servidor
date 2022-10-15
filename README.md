@@ -1,21 +1,21 @@
 # Consulta y muestra de datos de una API
 
 <!----Descripcion---->
-La pagina que se muestra a continuación es una demostración de una consulta de API a traves de un sitio web.
+La página que se muestra a continuación es una demostración de una consulta de API a través de un sitio web.
 
-El profesor de esta asignatura nos dejo realizar una aplicación que utilice la consulta de una API en un sitio web temático, algunos detalles que no se mencionan aqui se mencionan en el video de abajo.
+El profesor de esta asignatura nos dejó realizar una aplicación que utilice la consulta de una API en un sitio web temático, algunos detalles que no se mencionan aquí se mencionan en el video de abajo.
 <!----Separador de la descripcion ---->
 
 <!----Notas---->
 **Notas:**
 
-**- Al igual que el blog se realizo la pagina usando Laravel y fue alojada en heroku.**
+**- Al igual que el blog se realizó la página usando Laravel y fue alojada en heroku.**
 
 **- Realice las modificaciones correspondientes para que no dejara los repositorios inactivos.**
 <!----Separador de las notas---->
 
 <!----Separador---->
-Pueden ver la pagina a traves de este enlace
+Pueden ver la página a través de este enlace
 
 [https://tibucompas.herokuapp.com/getPersonajes](https://tibucompas.herokuapp.com/getPersonajes)
 
