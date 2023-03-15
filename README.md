@@ -12,6 +12,8 @@ El profesor de esta asignatura nos dejó realizar una aplicación que utilice la
 **- Al igual que el blog se realizó la página usando Laravel y fue alojada en heroku.**
 
 **- Realice las modificaciones correspondientes para que no dejara los repositorios inactivos.**
+
+**- Estoy teniendo problemas con el sitio de Heroku en este y otros proyectos relacionados.**
 <!----Separador de las notas---->
 
 <!----Separador---->
