@@ -13,7 +13,7 @@ El profesor de esta asignatura nos dejó realizar una aplicación que utilice la
 
 **- Realice las modificaciones correspondientes para que no dejara los repositorios inactivos.**
 
-**- Estoy teniendo problemas con el sitio de Heroku en este y otros proyectos relacionados.**
+**- Como en otro proyecto relacionado el enlace ya no tiene conexion ya que de momento no he podido ingresar a la cuenta de heroku, trate de hacer otra cuenta pero desde hace ya un tiempo dicho sitio ya no permite crear apps de forma gratis, todavia pueden ver el sitio descargando el codigo fuente y usar XAMPP.**
 <!----Separador de las notas---->
 
 <!----Separador---->
