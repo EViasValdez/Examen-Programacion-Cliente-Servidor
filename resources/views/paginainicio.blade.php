@@ -19,35 +19,35 @@
         body{
             background: linear-gradient(0deg, rgba(0,0,0,1) 8%, rgba(12,0,73,1) 24%, rgba(14,0,180,1) 48%, rgba(20,0,255,1) 80%);
         }
-        #imgprincipal {
+        #ImgPrincipal {
             display: block;
             margin-left: auto;
             margin-right: auto;
             height: 353px;
             width: 546px;
         }
-        #txthead {
+        #TxtHead {
             font-family: "Overlock SC";
             color: white;
             font-size: 40px;
             font-weight: bolder;
             text-align: center;
         }
-        #txttitulo {
+        #TxtTitulo {
             font-family: "Mada";
             color: white;
             font-size: 28px;
             font-weight: bold;
             text-align: center;
         }
-        #txtdescripcion {
+        #TxtDescripcion {
             font-family: "Mada";
             color: white;
             font-size: 24px;
             font-weight: bold;
             text-align: center;
         }
-        #tabla, tr, td, tbody {
+        #Tabla, tr, td, tbody {
             font-family: "Mada";
             border: 2px white;
             color: white;
@@ -72,15 +72,15 @@
         }
     </style>
     <header>
-        <img id="imgprincipal" src="{{asset('archivos/TibuCompasLogo.png')}}">
-        <p id="txthead">Los únicos del pacifico</p>
+        <img id="ImgPrincipal" src="{{asset('archivos/TibuCompasLogo.png')}}">
+        <p id="TxtHead">Los únicos del pacifico</p>
     </header>
-        <p id="txttitulo">Utilización de APIS</p>
-        <p id="txtdescripcion">
+        <p id="TxtTitulo">Utilización de APIS</p>
+        <p id="TxtDescripcion">
             El video proporciona una manera eficaz para ayudarle a demostrar el punto.
             Cuando haga clic en Vídeo en línea, puede pegar el código para insertar del vídeo que desea agregar.
             También puede escribir una palabra clave para buscar en línea el vídeo que mejor se adapte a su documento.
-            Ahorre tiempo en Word con nuevos botones que se muestran donde se necesiten. Para cambiar la forma en que se ajusta una imagen en el documento, haga clic y aparecerá un botón de opciones de diseño junto a la imagen. Cuando trabaje en una tabla, haga clic donde desee agregar una fila o columna y, a continuación, haga clic en el signo más.
+            Ahorre tiempo en Word con nuevos botones que se muestran donde se necesiten. Para cambiar la forma en que se ajusta una imagen en el documento, haga clic y aparecerá un botón de opciones de diseño junto a la imagen. Cuando trabaje en una Tabla, haga clic donde desee agregar una fila o columna y, a continuación, haga clic en el signo más.
             La lectura es más fácil, también, en la nueva vista de lectura.
         </p>
         <br>
