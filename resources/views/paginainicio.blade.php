@@ -16,7 +16,7 @@
 </head>
 <body>
     <style type="text/css">
-        body{
+        body {
             background: linear-gradient(0deg, rgba(0,0,0,1) 8%, rgba(12,0,73,1) 24%, rgba(14,0,180,1) 48%, rgba(20,0,255,1) 80%);
         }
         #ImgPrincipal {
