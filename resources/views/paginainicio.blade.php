@@ -8,10 +8,10 @@
     <link href="https://fonts.googleapis.com/css2?family=Mada&display=swap" rel="stylesheet">
     <script src="//cdn.datatables.net/1.11.4/js/jquery.dataTables.min.js"></script>
     <script>
-            $(document).ready( function () {
-                $('#tablaRM').DataTable();
-            } );
-        </script>
+        $(document).ready( function () {
+            $('#tablaRM').DataTable();
+        } );
+    </script>
     <title>Tibucompas</title>
 </head>
 <body>
