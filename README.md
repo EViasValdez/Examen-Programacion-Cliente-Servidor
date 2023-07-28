@@ -1,15 +1,9 @@
 # Consulta y muestra de datos de una API
 
-<!----Descripcion---->
-La página que se muestra a continuación es una demostración de una consulta de API a través de un sitio web.
-
-El profesor de esta asignatura nos dejó realizar una aplicación que utilice la consulta de una API en un sitio web temático, algunos detalles que no se mencionan aquí se mencionan en el video de abajo.
-<!----Separador de la descripcion ---->
-
 <!----Notas---->
 **Notas:**
 
-**- Al igual que el blog se realizó la página usando Laravel y fue alojada en heroku.**
+**- Al igual que el blog se realizó la página usando Laravel y fue alojada en Heroku.**
 
 **- Realice las modificaciones correspondientes para que no dejara los repositorios inactivos.**
 
