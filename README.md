@@ -7,7 +7,7 @@
 
 **- Realice las modificaciones correspondientes para que no dejara los repositorios inactivos.**
 
-**- Como en otro proyecto relacionado el enlace ya no tiene conexion ya que de momento no he podido ingresar a la cuenta de Heroku, trate de hacer otra cuenta pero desde hace ya un tiempo dicho sitio ya no permite crear apps de forma gratis, todavia pueden ver el sitio descargando el codigo fuente y usar XAMPP.**
+**- Como en otro proyecto relacionado el enlace ya no tiene conexion ya que de momento no he podido ingresar a la cuenta de Heroku, trate de hacer otra cuenta pero desde hace ya un tiempo dicho sitio ya no permite crear apps de forma gratis y quede fuera de mi propia cuenta, todavia pueden ver el sitio descargando el codigo fuente y usar XAMPP.**
 <!----Separador de las notas---->
 
 <!----Separador---->
