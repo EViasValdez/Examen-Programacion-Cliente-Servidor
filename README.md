@@ -7,7 +7,7 @@
 
 **- Realice las modificaciones correspondientes para no dejar el repositorio inactivo.**
 
-**- Como habia mencionado en otro proyecto relacionado ya he podido recuperar mi cuenta de Heroku, pero aun asi tampoco se permite hacer algun deploy al proyecto, asi que el enlace no funciona.**
+**- Como habia mencionado en otro proyecto que usaba Heroku ya he podido recuperar mi cuenta de Heroku, pero aun asi tampoco se permite hacer algun deploy al proyecto ya que desde hace tiempo Heroku ya no permite deploys gratuitos, asi que el enlace no funciona.**
 <!----Separador de las notas---->
 
 <!----Separador---->
