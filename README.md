@@ -11,7 +11,7 @@
 <!----Separador de las notas---->
 
 <!----Separador---->
-Pueden ver la página a través de este enlace
+Pueden ver la página a través de este enlace (Actualmente sin disponibilidad)
 
 [https://tibucompas.herokuapp.com/getPersonajes](https://tibucompas.herokuapp.com/getPersonajes)
 
