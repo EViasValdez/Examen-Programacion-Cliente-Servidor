@@ -9,7 +9,7 @@
     <script src="//cdn.datatables.net/1.11.4/js/jquery.dataTables.min.js"></script>
     <script>
         $(document).ready( function () {
-            $('#tablaRM').DataTable();
+            $('#TablaRM').DataTable();
         } );
     </script>
     <title>Tibucompas</title>
@@ -72,10 +72,10 @@
         }
     </style>
     <header>
-        <img id="ImgPrincipal" src="{{asset('archivos/TibuCompasLogo.png')}}">
+        <img id="ImgPrincipal" src="archivos/TibuCompasLogo.png">
         <p id="TxtHead">Los únicos del pacifico</p>
     </header>
-        <p id="TxtTitulo">Utilización de APIS</p>
+        <p id="TxtTitulo">Utilización de APIs</p>
         <p id="TxtDescripcion">
             El video proporciona una manera eficaz para ayudarle a demostrar el punto.
             Cuando haga clic en Vídeo en línea, puede pegar el código para insertar del vídeo que desea agregar.
@@ -85,7 +85,7 @@
         </p>
         <br>
         <br>
-        <table id="tablaRM" class="table-responsive">
+        <table id="TablaRM" class="table-responsive">
         <thead>
             <tr>
                 <td>Id</td>
