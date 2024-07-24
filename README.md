@@ -7,7 +7,9 @@
 
 **- Realice las modificaciones correspondientes para no dejar el repositorio inactivo.**
 
-**- Desde Marzo de 2023 el enlace ya no tiene conexión, aunque ya recupere mi cuenta de Heroku desde hace tiempo ya no se permiten realizar deploys nuevos de manera gratuita por eso está sin funcionar el enlace, actualmente el sitio se puede ver en el formato raiz (HTML, CSS y JS).**
+**- Desde Marzo de 2023 el enlace ya no tiene conexión, aunque ya recupere mi cuenta de Heroku desde hace tiempo ya no se permiten realizar deploys nuevos de manera gratuita por eso está sin funcionar el enlace.**
+
+**Actualmente el sitio se puede ver en el formato raiz (HTML, CSS y JS).**
 <!----Separador de las notas---->
 
 <!----Separador---->
