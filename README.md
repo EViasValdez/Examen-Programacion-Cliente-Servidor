@@ -22,4 +22,5 @@ Video relacionado con detalles adicionales en la creación de este trabajo.
 [<img src="https://i.ytimg.com/vi/Gn8XFnScJ3U/maxresdefault.jpg" width="40%">](https://www.youtube.com/watch?v=Gn8XFnScJ3U)
 
 Las imágenes y fuentes utilizadas para este sitio pertenecen a sus respectivos dueños y/o autores.
+
 <!----Fin del separador---->
