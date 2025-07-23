@@ -28,29 +28,29 @@
         }
         #TxtHead {
             font-family: "Overlock SC";
-            color: white;
+            color: rgba(255, 255, 255);
             font-size: 40px;
             font-weight: bolder;
             text-align: center;
         }
         #TxtTitulo {
             font-family: "Mada";
-            color: white;
+            color: rgba(255, 255, 255);
             font-size: 28px;
             font-weight: bold;
             text-align: center;
         }
         #TxtDescripcion {
             font-family: "Mada";
-            color: white;
+            color: rgba(255, 255, 255);
             font-size: 24px;
             font-weight: bold;
             text-align: center;
         }
         #Tabla, tr, td, tbody {
             font-family: "Mada";
-            border: 2px white;
-            color: white;
+            border: 2px rgba(255, 255, 255);
+            color: rgba(255, 255, 255);
             font-size: 24px;
             margin-left: auto;
             margin-right: auto;
@@ -60,8 +60,8 @@
         }
         thead {
             font-family: "Mada";
-            border: 2px white;
-            color: white;
+            border: 2px rgba(255, 255, 255);
+            color: rgba(255, 255, 255);
             font-size: 24px;
             font-weight: bolder;
             margin-left: auto;
