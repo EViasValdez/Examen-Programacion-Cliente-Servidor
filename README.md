@@ -7,7 +7,7 @@
 
 **- Realice las modificaciones correspondientes para no dejar el repositorio inactivo.**
 
-**- Desde Marzo de 2023 el enlace ya no tiene conexión, aunque ya recupere mi cuenta de Heroku desde hace tiempo ya no se permiten realizar deploys nuevos de manera gratuita por eso el enlace no funciona.**
+**- Desde Marzo de 2023 el enlace ya no tiene conexión, aunque ya recupere mi cuenta de Heroku desde hace tiempo ya no se permiten realizar deploys nuevos de manera gratuita pero aun se puede usar en XAMP.**
 
 **Ahora el sitio se puede ver en el formato original (HTML, CSS y JS).**
 <!----Separador de las notas---->
