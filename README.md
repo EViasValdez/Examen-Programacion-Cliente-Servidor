@@ -17,7 +17,7 @@ Pueden ver la página a través de este enlace (Actualmente sin disponibilidad).
 
 [https://tibucompas.herokuapp.com/getPersonajes](https://tibucompas.herokuapp.com/getPersonajes)
 
-Video relacionado con detalles adicionales en la creación de este trabajo.
+Video del proceso y con detalles adicionales en la creación de este trabajo.
 
 [<img src="https://i.ytimg.com/vi/Gn8XFnScJ3U/maxresdefault.jpg" width="40%">](https://www.youtube.com/watch?v=Gn8XFnScJ3U)
 
