@@ -3,7 +3,7 @@
 <!----Notas---->
 **Notas:**
 
-**- Al igual que el blog se realizó la página usando Laravel y fue alojada en Heroku.**
+**- Al igual que el blog se realizó la página usando Laravel y fue alojada originalmente en Heroku.**
 
 **- Realice las modificaciones correspondientes para no dejar el repositorio inactivo.**
 
