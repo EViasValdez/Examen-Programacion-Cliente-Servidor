@@ -1,5 +1,9 @@
 # Consulta y muestra de datos de una API en Laravel
 
+<!----Descripción---->
+Por ser escrita.
+<!----Separador de la descripción ---->
+
 <!----Notas---->
 **Notas:**
 
