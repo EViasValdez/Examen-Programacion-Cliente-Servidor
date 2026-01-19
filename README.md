@@ -1,7 +1,7 @@
-# Consulta y muestra de datos de una API en Laravel
+# Examen de Cliente Servidor
 
 <!----Descripción---->
-Por ser escrita.
+Para el proyecto de examen de la materia hice una consulta y muestra de datos de una API en Laravel.
 <!----Separador de la descripción ---->
 
 <!----Notas---->
