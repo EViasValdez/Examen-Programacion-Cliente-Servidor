@@ -1,15 +1,11 @@
 # Examen de Cliente Servidor
 
 <!----Descripción---->
-Para el proyecto de examen de la materia hice una consulta y muestra de datos de una API en Laravel.
+Para el proyecto de examen de la materia hice una consulta y muestra de datos de una API en Laravel alojada originalmente en Heroku.
 <!----Separador de la descripción ---->
 
 <!----Notas---->
 **Notas:**
-
-**- Al igual que el blog se realizó la página usando Laravel y fue alojada originalmente en Heroku.**
-
-**- Realice las modificaciones correspondientes para no dejar el repositorio inactivo.**
 
 **- Desde Marzo de 2023 el enlace ya no tiene conexión, aunque ya recupere mi cuenta de Heroku desde hace tiempo ya no se permiten hacer deploys de manera gratuita, pero todavía se puede descargar y usar por medio de XAMPP.**
 
