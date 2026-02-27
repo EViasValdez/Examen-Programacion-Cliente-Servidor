@@ -6,7 +6,6 @@ Para el proyecto de examen de la materia hice una consulta y muestra de datos de
 
 <!----Notas---->
 **Notas:**
-
 **- Desde Marzo de 2023 el enlace ya no tiene conexión, aunque ya recupere mi cuenta de Heroku desde hace tiempo ya no se permiten hacer deploys de manera gratuita, pero todavía se puede descargar y usar por medio de XAMPP.**
 
 **- El sitio se puede ver en el formato original (HTML, CSS y JS).**
