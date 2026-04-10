@@ -12,7 +12,7 @@ Para el proyecto de examen de la materia hice una consulta y muestra de datos de
 <!----Separador de las notas---->
 
 <!----Separador---->
-La página se puede ver a través de este enlace (actualmente desconectada).
+La página se puede ver a través de este enlace (actualmente sin conexión).
 [https://tibucompas.herokuapp.com/getPersonajes](https://tibucompas.herokuapp.com/getPersonajes)
 
 Video del proceso y con detalles adicionales en la creación de este trabajo.
