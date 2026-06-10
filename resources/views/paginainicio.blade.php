@@ -19,6 +19,7 @@
         body {
             background: linear-gradient(0deg, rgba(0,0,0,1) 8%, rgba(12,0,73,1) 24%, rgba(14,0,180,1) 48%, rgba(20,0,255,1) 80%);
         }
+
         #ImgPrincipal {
             display: block;
             margin-left: auto;
@@ -26,6 +27,7 @@
             height: 353px;
             width: 546px;
         }
+
         #TxtHead {
             font-family: "Overlock SC";
             color: rgba(255, 255, 255);
@@ -33,6 +35,7 @@
             font-weight: bolder;
             text-align: center;
         }
+
         #TxtTitulo {
             font-family: "Mada";
             color: rgba(255, 255, 255);
@@ -40,6 +43,7 @@
             font-weight: bold;
             text-align: center;
         }
+
         #TxtDescripcion {
             font-family: "Mada";
             color: rgba(255, 255, 255);
@@ -47,6 +51,7 @@
             font-weight: bold;
             text-align: center;
         }
+
         #Tabla, tr, td, tbody {
             font-family: "Mada";
             border: 2px rgba(255, 255, 255);
@@ -58,6 +63,7 @@
             padding-left: 48px;
             padding-right: 48px;
         }
+        
         thead {
             font-family: "Mada";
             border: 2px rgba(255, 255, 255);
