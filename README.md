@@ -1,7 +1,7 @@
 # Examen de Cliente Servidor
 
 <!----Descripción---->
-Para el proyecto de examen de la materia hice una consulta y muestra de datos de una API en Laravel alojada originalmente en Heroku.
+Para el proyecto de examen de la materia hice una consulta y muestra de datos de una API en Laravel alojada originalmente en Heroku (actualmente inhabilitada).
 <!----Separador de la descripción---->
 
 <!----Notas---->
