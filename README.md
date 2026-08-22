@@ -15,7 +15,7 @@ Para el proyecto de examen de la materia hice una consulta y muestra de datos de
 La página se puede ver a través de este enlace (actualmente sin conexión).
 [https://tibucompas.herokuapp.com/getPersonajes](https://tibucompas.herokuapp.com/getPersonajes)
 
-Video del proceso y con detalles adicionales en la creación de este trabajo.
+Video del proceso y con detalles adicionales de la creación de este trabajo.
 [<img src="https://i.ytimg.com/vi/Gn8XFnScJ3U/maxresdefault.jpg" width="40%">](https://www.youtube.com/watch?v=Gn8XFnScJ3U)
 
 Las imágenes y fuentes utilizadas para este sitio pertenecen a sus respectivos dueños y/o autores.
